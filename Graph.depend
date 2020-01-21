@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1579611832 source:c:\users\user\desktop\graph\main.cpp
+	<iostream>
+	<vector>
+	"vertex.h"
+	"graph.h"
+	"priorityqueue.h"
+	"dijkstra.h"
+
+1579597929 source:c:\users\user\desktop\dijkstra.cpp
+	<iostream>
+	<vector>
+	"vertex.h"
+	"graph.h"
+	"priorityqueue.h"
+	"dijkstra.h"
+
+1579597833 c:\users\user\desktop\vertex.h
+	<iostream>
+	<vector>
+
+1579542809 c:\users\user\desktop\graph.h
+	<vector>
+
+1579541497 c:\users\user\desktop\priorityqueue.h
+
+1579541786 c:\users\user\desktop\dijkstra.h
+
+1579597308 source:c:\users\user\desktop\graph.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"vertex.h"
+	"graph.h"
+	<vector>
+
+1579597086 source:c:\users\user\desktop\priorityqueue.cpp
+	"vertex.h"
+	"priorityqueue.h"
+	<vector>
+
+1579597818 source:c:\users\user\desktop\vertex.cpp
+	<iostream>
+	<vector>
+	"vertex.h"
+
+1579603342 source:c:\users\user\desktop\graph\graph.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"vertex.h"
+	"graph.h"
+	<vector>
+
+1579602378 c:\users\user\desktop\graph\vertex.h
+	<iostream>
+	<vector>
+
+1579602380 c:\users\user\desktop\graph\graph.h
+	<vector>
+
+1579602381 c:\users\user\desktop\graph\priorityqueue.h
+
+1579610992 c:\users\user\desktop\graph\dijkstra.h
+
+1579602372 source:c:\users\user\desktop\graph\priorityqueue.cpp
+	"vertex.h"
+	"priorityqueue.h"
+	<vector>
+
+1579602371 source:c:\users\user\desktop\graph\vertex.cpp
+	<iostream>
+	<vector>
+	"vertex.h"
+
+1579615242 source:c:\users\user\desktop\graph\dijkstra.cpp
+	<iostream>
+	<vector>
+	"vertex.h"
+	"graph.h"
+	"priorityqueue.h"
+	"dijkstra.h"
+
